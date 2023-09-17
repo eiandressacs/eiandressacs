@@ -23,7 +23,9 @@ I'm a programming student, passionate about technology and very curious.
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eiandressacs&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 
 
-<center>Made with 💜 by AC.</center>
+
+
+<h3 align="center"> Made with 💜 by AC </h3>
 
 
 
