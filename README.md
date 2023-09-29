@@ -3,7 +3,7 @@
 
 # About me
 
-I'm a programming student, passionate about technology and very curious.
+My name is Andressa, and I am in the midst of a career transition process with the aim of becoming a programmer. Presently, I am fully committed to my programming studies since the year 2023. Additionally, I have the privilege of being a recipient of a scholarship in the Santander Bootcamp 2023 program, in its third edition, in collaboration with DIO, where I am actively participating in the Fullstack Java + Angular Bootcamp.
 
 ## 💻 Connect me
 
