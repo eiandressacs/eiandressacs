@@ -12,7 +12,6 @@ My name is **Andressa** and I am in the process of a career transition with the 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:andressa160r@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/andressa-carvalho-8449a613b/)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/eiandressacs) 
-[![Site](https://img.shields.io/badge/Site-000?style=for-the-badge)](https://andressacarvalho.netlify.app/)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/andressa160r/?tab=skills)
 
 ### Hard Skills
